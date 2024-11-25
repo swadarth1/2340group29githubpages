@@ -1,1 +1,2 @@
-# This is my 2340 website
+# CS2340: Wandersync!
+
